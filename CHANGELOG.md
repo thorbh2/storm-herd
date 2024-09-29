@@ -5,3 +5,4 @@
 - 2024-09-28: add batch mint support
 - 2024-09-29: fix mint logic edge case
 - 2024-09-29: add CI workflow
+- 2024-09-29: add .env.example
