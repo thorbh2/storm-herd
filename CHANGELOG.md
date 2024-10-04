@@ -7,3 +7,4 @@
 - 2024-09-29: add CI workflow
 - 2024-09-29: add .env.example
 - 2024-10-01: add collection config
+- 2024-10-04: fix mint logic edge case
