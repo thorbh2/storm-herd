@@ -9,3 +9,4 @@
 - 2024-10-01: add collection config
 - 2024-10-04: fix mint logic edge case
 - 2024-10-05: bump dependency versions
+- 2024-10-05: add opensea metadata fields
